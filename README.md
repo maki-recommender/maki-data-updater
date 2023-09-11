@@ -20,6 +20,6 @@ Variables without a default value must be assigned.
 
 `MAKI_UpdaterRunEverySeconds`
 
-**Description:** Delay time between two following data updates. A random delay up to 1/4 of this value may be added.
+**Description:** Delay time (in seconds) between two following data updates. A random delay up to 1/4 of this value may be added.
 
 **Default:** 900
